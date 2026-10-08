@@ -24,7 +24,7 @@
 
 ```javascript
 const devendra = {
-  education: "B.Tech in Computer Science",
+  education: "BE in Computer Science & Engineering",
   role: "Aspiring Software Engineer",
   location: "India 🇮🇳",
 
@@ -46,7 +46,7 @@ const devendra = {
 };
 ```
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- 🎓 Pursuing BE in Computer Science & Engineering
 - 💻 Passionate about software development and AI
 - 🚀 Building practical, real-world applications
 - 🧠 Exploring DSA, Java, and modern web technologies
