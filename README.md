@@ -16,3 +16,22 @@
   <img alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/devendrasankhla01/devendrasankhla01/output/github-snake.svg">
 </picture>
+
+
+<h2 align="center">GitHub Analytics 📊</h2>
+
+<div align="center">
+
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=devendrasankhla01&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrasankhla01&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<h2 align="center">Tech Stack 🚀</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nodejs,mongodb,git,github,vscode&perline=6" />
+</div>
