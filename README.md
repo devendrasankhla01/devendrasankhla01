@@ -57,27 +57,17 @@ const devendra = {
 
 ---
 
+
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+<h2>📈 GitHub Contribution Activity</h2>
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark" alt="Programming Languages" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" alt="Frontend Technologies" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark" alt="Backend Technologies" />
-
-### Developer Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" alt="Developer Tools" />
+<img width="95%"
+  src="https://raw.githubusercontent.com/devendrasankhla01/devendrasankhla01/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="GitHub Contribution Activity" />
 
 </div>
+
 
 ---
 
