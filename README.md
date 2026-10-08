@@ -3,6 +3,8 @@
 <!--            MIDNIGHT CYAN EDITION             -->
 <!-- ============================================ -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005B74,100:00D9FF&height=230&section=header&text=Devendra%20Sankhla&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Repeat.&descAlignY=60" alt="header"/>
+
 <div align="center">
 
 # Hey, I'm Devendra Sankhla 👋
@@ -26,12 +28,13 @@
 const devendra = {
   education: "BE in Computer Science & Engineering",
   role: "Aspiring Software Engineer",
-  location: "Shivamogga, India 🇮🇳",
+  location: "India 🇮🇳",
 
   interests: [
     "Full Stack Development",
     "Artificial Intelligence",
     "Problem Solving",
+    "Open Source",
     "Hackathons"
   ],
 
@@ -45,13 +48,33 @@ const devendra = {
 };
 ```
 
-- 🎓 Pursuing BE in Computer Science & Engineering
+- 🎓 Pursuing **BE in Computer Science & Engineering**
 - 💻 Passionate about software development and AI
 - 🚀 Building practical, real-world applications
 - 🧠 Exploring DSA, Java, and modern web technologies
 - 🤝 Interested in hackathons and team projects
 - 🎯 Goal: Become a skilled Software Engineer
 - ⚡ Always learning, building, and improving
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark" />
+
+### Developer Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" />
+
+</div>
 
 ---
 
@@ -97,36 +120,70 @@ const devendra = {
 
 ## 🚀 Featured Projects
 
-### 🌱 FoodWise AI
-**AI-Powered Food Waste Reduction & Redistribution Platform**
-
-A smart platform designed to help institutional kitchens reduce food waste using data-driven predictions, surplus management, and food redistribution workflows.
-
-**Technologies:** React, TypeScript, Node.js, MongoDB
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devendrasankhla01/foodwise)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00B8D9?style=for-the-badge&logo=vercel&logoColor=white)](https://foodwise-peach.vercel.app)
-
-### 📚 Classora
-**Smart Attendance & Academic Tracking Platform**
-
-An academic productivity project designed around attendance tracking, timetable management, class changes, and student dashboards.
-
-**Focus:** Student productivity, automation, modern UI/UX
-
-### 💼 CareerDNA
-**Smart Campus Placement Management Platform**
-
-A system designed to streamline placement workflows through student skill verification, academic eligibility checks, and role-based dashboards.
-
-**Focus:** Placement management, skill verification, student analytics
-
-### ⚖️ ClearDues
-**AI-Assisted Payment Dispute Resolution**
-
-A platform concept for helping small businesses organize payment disputes, compare documents, identify discrepancies, and prepare evidence-linked clarification drafts.
-
-**Focus:** AI assistance, document analysis, business workflows
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 FoodWise AI</h3>
+      <p><b>AI-Powered Food Waste Reduction & Redistribution Platform</b></p>
+      <p>A smart platform designed to help institutional kitchens reduce food waste using data-driven predictions, surplus tracking, and redistribution workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+        <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
+        <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+      </p>
+      <p>
+        <a href="https://github.com/devendrasankhla01/foodwise">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://foodwise-peach.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-00B8D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Classora</h3>
+      <p><b>Smart Attendance & Academic Tracking Platform</b></p>
+      <p>An academic productivity project focused on attendance tracking, timetable management, class updates, and student dashboards with a clean modern experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web_App-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI/UX-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+        <img src="https://img.shields.io/badge/In_Progress-00B8D9?style=for-the-badge"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Under_Development-101820?style=for-the-badge&logo=github&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 CareerDNA</h3>
+      <p><b>Smart Campus Placement Management Platform</b></p>
+      <p>A system designed to streamline placement workflows through academic eligibility checks, skill verification, company recommendations, and role-based dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Placement_Platform-0D1117?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Dashboards-0D1117?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Prototype-00B8D9?style=for-the-badge"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Building-101820?style=for-the-badge&logo=github&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ ClearDues</h3>
+      <p><b>AI-Assisted Payment Dispute Resolution</b></p>
+      <p>A platform concept for helping small businesses organize payment disputes, compare records, identify discrepancies, and prepare clarification drafts efficiently.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Workflow-0D1117?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Document_Analysis-0D1117?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Business_Tool-00B8D9?style=for-the-badge"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Concept_&_Prototype-101820?style=for-the-badge&logo=github&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -135,24 +192,20 @@ A platform concept for helping small businesses organize payment disputes, compa
 ## 🌐 Connect With Me
 
 <a href="https://github.com/devendrasankhla01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/devendra_sankhlaa/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<!-- Add your actual LinkedIn URL and remove these comment markers to enable the badge.
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
--->
 
-<!-- Add your public contact email and remove these comment markers to enable the badge.
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
--->
 
 </div>
 
@@ -169,3 +222,5 @@ A platform concept for helping small businesses organize payment disputes, compa
 ⭐ Thanks for visiting my GitHub profile!
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:005B74,100:0D1117&height=140&section=footer" alt="footer"/>
