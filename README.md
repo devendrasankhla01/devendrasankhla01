@@ -1,4 +1,3 @@
-
 <!-- ============================================ -->
 <!--       DEVENDRA SANKHLA | GITHUB PROFILE      -->
 <!--            MIDNIGHT CYAN EDITION             -->
@@ -57,8 +56,6 @@ const devendra = {
 
 ---
 
-
-
 <div align="center">
 
   <h2>📈 Contribution Activity</h2>
@@ -71,8 +68,6 @@ const devendra = {
 
 </div>
 
-
-
 ---
 
 <div align="center">
@@ -84,12 +79,6 @@ const devendra = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrasankhla01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
-
----
-
-
----
-
 
 ---
 
@@ -147,22 +136,22 @@ A platform concept for helping small businesses organize payment disputes, compa
 ## 🌐 Connect With Me
 
 <a href="https://github.com/devendrasankhla01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<!-- Replace these placeholders with your actual links -->
-
-<!--
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/devendra_sankhlaa/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<!-- Add your actual LinkedIn URL and remove these comment markers to enable the badge.
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+-->
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<!-- Add your public contact email and remove these comment markers to enable the badge.
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 -->
 
