@@ -58,15 +58,19 @@ const devendra = {
 ---
 
 
+
 <div align="center">
 
-<h2>📈 GitHub Contribution Activity</h2>
+  <h2>📈 Contribution Activity</h2>
 
-<img width="95%"
-  src="https://raw.githubusercontent.com/devendrasankhla01/devendrasankhla01/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-  alt="GitHub Contribution Activity" />
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devendrasankhla01&theme=github_dark&animation=draw&chart_color=00D9FF&title_color=00D9FF"
+    alt="Devendra's Contribution Activity"
+  />
 
 </div>
+
 
 
 ---
