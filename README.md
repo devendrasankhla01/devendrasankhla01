@@ -87,23 +87,9 @@ const devendra = {
 
 ---
 
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devendrasankhla01&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=005B74&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=devendrasankhla01&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
