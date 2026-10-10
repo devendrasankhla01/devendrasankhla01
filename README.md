@@ -4,13 +4,15 @@
 <!-- ============================================ -->
 
 
+
 <div align="center">
   <img
-    src="./assets/devendra-sankhla-animated-aligned.svg"
+    src="./assets/devendra-sankhla-animated-centered.svg"
     alt="Devendra Sankhla"
     width="80%"
   />
 </div>
+
 
 
 <div align="center">
