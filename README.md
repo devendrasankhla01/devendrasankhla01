@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img height="28" src="https://komarev.com/ghpvc/?username=devendrasankhla01&color=00D9FF" alt="Profile Views" />
+  <img height="32" src="https://komarev.com/ghpvc/?username=devendrasankhla01&color=00D9FF" alt="Profile Views" />
   <img height="28" src="https://img.shields.io/github/followers/devendrasankhla01?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=101820" alt="GitHub Followers" />
 
 </div>
@@ -45,7 +45,7 @@ const devendra = {
   ],
 
   currentlyLearning: [
-    "Data Structures & Algorithms",
+    "Data Struc32tures & Algorithms",
     "Java",
     "Web Development"
   ],
