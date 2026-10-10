@@ -17,7 +17,8 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=devendrasankhla01&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge&v=2" alt="Profile Views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=devendrasankhla01&color=00D9FF)
 
 <img src="https://img.shields.io/github/followers/devendrasankhla01?label=FOLLOWERS&style=for-the-badge&color=00B8D9&labelColor=101820" alt="GitHub Followers" />
 
