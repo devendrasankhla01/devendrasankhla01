@@ -112,6 +112,24 @@ const devendra = {
 
 <div align="center">
 
+
+---
+
+<div align="center">
+
+  <h2>🔥 GitHub Streak</h2>
+
+  <img
+    src="https://streak-stats.demolab.com?user=devendrasankhla01&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF"
+    alt="Devendra Sankhla GitHub Streak"
+    width="75%"
+  />
+
+</div>
+
+---
+
+
 ## 🐍 My Contribution Snake
 
 <picture>
