@@ -20,8 +20,7 @@
 
 <div align="center">
 
-  <img height="28" src="https://komarev.com/ghpvc/?username=devendrasankhla01&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
+  <img height="28" ![Profile Views](https://komarev.com/ghpvc/?username=devendrasankhla01&color=00D9FF)
   <img height="28" src="https://img.shields.io/github/followers/devendrasankhla01?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=101820" alt="GitHub Followers" />
 
 </div>
