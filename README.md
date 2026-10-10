@@ -6,12 +6,11 @@
 
 <div align="center">
   <img
-    src="./assets/devendra-sankhla-animated-fast.svg"
+    src="./assets/devendra-sankhla-animated-aligned.svg"
     alt="Devendra Sankhla"
     width="80%"
   />
 </div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:005B74,100:00D9FF&height=230&section=header&text=Devendra%20Sankhla&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Repeat.&descAlignY=60" alt="header"/>
 
