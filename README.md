@@ -18,7 +18,11 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=devendrasankhla01&color=00D9FF)
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=devendrasankhla01&color=00D9FF" alt="Profile Views" />
+
+</div>
 
 <img src="https://img.shields.io/github/followers/devendrasankhla01?label=FOLLOWERS&style=for-the-badge&color=00B8D9&labelColor=101820" alt="GitHub Followers" />
 
