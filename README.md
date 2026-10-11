@@ -1,14 +1,12 @@
 
-
-
-
 <div align="center">
   <img
-    src="./assets/devendra-sankhla-animated-centered.svg"
+    src="./assets/devendra-sankhla-true-handwriting.svg"
     alt="Devendra Sankhla"
     width="80%"
   />
 </div>
+
 
 
 
