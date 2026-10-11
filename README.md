@@ -41,7 +41,7 @@
 const devendra = {
   education: "BE in Computer Science & Engineering",
   role: "Aspiring Software Engineer",
-  location: "India 🇮🇳",
+  location: "Shivamogga, India 🇮🇳",
 
   interests: [
     "Full Stack Development",
